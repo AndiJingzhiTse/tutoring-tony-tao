@@ -1,6 +1,7 @@
+package Class1;
+
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
-
 class Main {
 
     // pass by reference, in reality pass by pointer, so also pass by value

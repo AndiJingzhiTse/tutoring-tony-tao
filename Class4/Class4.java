@@ -1,3 +1,4 @@
+package  Class4;
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 
@@ -18,17 +19,17 @@ class Main {
     }
 
     public static void Question3() {
-        int startingIndex;
+        // int startingIndex;
 
-        if () {
+        // if () {
 
-        } else {
+        // } else {
 
-        }
+        // }
 
-        for ( ) {
+        // for ( ) {
 
-        }
+        // }
     }
 
     public static void Question2() {
@@ -94,4 +95,3 @@ class Main {
         return false;
     }
 }
-git
