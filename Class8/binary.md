@@ -72,3 +72,27 @@ exponent = 130-127 = 3
 mantissa to decimal
 connect into a scientific notation
 sign 1.mantissa x 2^exponent
+
+# Review #
+-30 in byte
+
+-13.53125 to float
+
+sign bit: 1
+13 to binary: 1101
+
+0.53125 x 2 = 1.0625
+0.0625 x 2 = 0.125
+0.125 x 2 = 0.25
+0.25 x 2 = 0.5
+0.5 x 2 = 1
+
+-13.53125 in binary is 1101.10001 = 1.10110001 x 2^3
+
+3 + 127 = 130
+130 in binary = 10000010
+
+1 10000010 10110001000000000000000
+
+11.15625
+
