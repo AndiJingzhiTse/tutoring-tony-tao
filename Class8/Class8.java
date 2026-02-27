@@ -39,7 +39,8 @@ public class Class8 {
         // String vs StringBuilder
         // SB has more reserve space, so it doesn't have to create a new string every time we concatenate
         // reserves 16 bytes
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder("Haaaaello");
+        System.out.println(sb);
         // if sb grows larger than 16 bytes, it will reserve more space such as 32 bytes, 64 bytes, etc
         // Amortization: O(1)
         // ArrayList also uses this strategy, it reserves more space when it grows larger than its current capacity
@@ -89,11 +90,12 @@ public class Class8 {
             return -1; // or some default value
         }
     }
-    public static void println(){
+
+    public static void println() {
         System.out.println();
     }
 
-    public static void print(String s){
+    public static void print(String s) {
         System.out.print(s);
     }
 
