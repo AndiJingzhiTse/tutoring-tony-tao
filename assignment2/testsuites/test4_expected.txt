@@ -1,0 +1,36 @@
+wordMaze1 output:
+
+Grid #1:
+WORD
+MAZE
+BEST
+GAME
+
+WORD is found.
+MAZE is found.
+BEST is found.
+NOTHERE is NOT found.
+
+wordMaze2 output:
+
+Grid #1:
+WORD
+MAZE
+BEST
+GAME
+
+WORD is found.
+MAZE is found.
+BEST is found.
+NOTHERE is NOT found.
+
+wordMaze1Bonus output:
+
+Grid #1:
+WORD
+MAZE
+BEST
+GAME
+
+Score for Grid #1: 351
+

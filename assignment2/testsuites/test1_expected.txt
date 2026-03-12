@@ -1,0 +1,63 @@
+wordMaze1 output:
+
+Grid #1:
+APPLES
+NEEORA
+IAEANG
+WPAMCE
+INABIH
+KNOMEL
+
+APPLES is found.
+ORANGE is found.
+APPLEPIE is NOT found.
+LIME is found.
+
+Grid #2:
+ABC
+DEF
+FGH
+
+ABF is found.
+
+wordMaze2 output:
+
+Grid #1:
+APPLES
+NEEORA
+IAEANG
+WPAMCE
+INABIH
+KNOMEL
+
+APPLES is found.
+ORANGE is NOT found.
+APPLEPIE is NOT found.
+LIME is found.
+
+Grid #2:
+ABC
+DEF
+FGH
+
+ABF is NOT found.
+
+wordMaze1Bonus output:
+
+Grid #1:
+APPLES
+NEEORA
+IAEANG
+WPAMCE
+INABIH
+KNOMEL
+
+Score for Grid #1: 657
+
+Grid #2:
+ABC
+DEF
+FGH
+
+Score for Grid #2: 14
+

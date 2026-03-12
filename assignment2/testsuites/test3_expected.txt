@@ -1,0 +1,33 @@
+wordMaze1 output:
+
+Grid #1:
+ABA
+BAB
+ABA
+
+ABA is found.
+ABAB is found.
+B is found.
+ABBA is found.
+
+wordMaze2 output:
+
+Grid #1:
+ABA
+BAB
+ABA
+
+ABA is found.
+ABAB is NOT found.
+B is found.
+ABBA is NOT found.
+
+wordMaze1Bonus output:
+
+Grid #1:
+ABA
+BAB
+ABA
+
+Score for Grid #1: 4
+

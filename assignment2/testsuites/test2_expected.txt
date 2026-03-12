@@ -1,0 +1,39 @@
+wordMaze1 output:
+
+Grid #1:
+ABCDE
+FGHIJ
+KLMNO
+PQRST
+UVWXY
+
+ABCDE is found.
+FGH is found.
+ABG is found.
+ZZZ is NOT found.
+
+wordMaze2 output:
+
+Grid #1:
+ABCDE
+FGHIJ
+KLMNO
+PQRST
+UVWXY
+
+ABCDE is found.
+FGH is found.
+ABG is NOT found.
+ZZZ is NOT found.
+
+wordMaze1Bonus output:
+
+Grid #1:
+ABCDE
+FGHIJ
+KLMNO
+PQRST
+UVWXY
+
+Score for Grid #1: 95
+
